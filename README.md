@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">Login Registration Backend</h3>
+  <h3 align="center">Login Registration Backend JDK 1.8</h3>
 
   <p align="center">
     Login registration backend system using Spring Boot. 
